@@ -1,0 +1,11 @@
+{
+  "name": "style-script-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zzuieliyaoli/style-script-test.git",
+  "author": "李力 <zzuieliyaoli@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
